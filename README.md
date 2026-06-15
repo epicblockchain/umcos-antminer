@@ -4,6 +4,7 @@ UMCOS firmware for Antminer rigs with stock control boards
 Currently supports the following boards:
 - amlogic
 - beaglebone
+- xilinx
 
 ## Supported rigs:
 
