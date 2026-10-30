@@ -20,7 +20,7 @@ Currently supports the following boards:
 | S21        | - BHB68601<br> - BHB68603<br> - BHB68606                                                                            |
 | S21 Pro    | - A3HB70601<br> - A3HB70602<br> - A3HB70603                                                                         |
 | S21 Pro+   | - A3HB70605<br> - A3HB70606<br> - A3HB70607<br> - A3HB70608<br> - A3HB70609                                         |
-| S21 XP     | - A3HB70501<br> - A3HB70502<br> - A3HB70503<br> - A3HB70505                                                         |
+| S21 XP     | - A3HB70501<br> - A3HB70502<br> - A3HB70503<br> - A3HB70505<br> - A3HB70506                                         |
 | S21 XP Imm | - M1HB70602                                                                                                         |
 | S21+       | - A3HB40601<br> - A3HB70701<br> - A3HB70702<br> - A3HB70703                                                         |
 | S21++      | - A3HB70705<br> - A3HB70707<br> - A3HB70708                                                                         |
